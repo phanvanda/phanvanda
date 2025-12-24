@@ -1,0 +1,8 @@
+# melos_managed_dependency_overrides: authentication,shopee_core,product
+dependency_overrides:
+  authentication:
+    path: ../../packages/authentication
+  product:
+    path: ../../packages/product
+  shopee_core:
+    path: ../../packages/shopee_core

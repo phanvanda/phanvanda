@@ -1,0 +1,13 @@
+name: shopee_monorepo
+description: Root workspace của dự án Shopee
+publish_to: 'none'
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dev_dependencies:
+  melos: ^6.0.0 # Hoặc version bạn đang dùng, không bắt buộc nhưng nên có
+
+dependencies:
+  flutter:
+    sdk: flutter

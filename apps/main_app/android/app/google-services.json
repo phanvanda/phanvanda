@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "799496228590",
+    "firebase_url": "https://project-a633b.firebaseio.com",
+    "project_id": "project-a633b",
+    "storage_bucket": "project-a633b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799496228590:android:7030eaf50eed404ec0edff",
+        "android_client_info": {
+          "package_name": "com.example.habitcheck"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAETo8_62X8bSHsXEHUVCxIjCTlxGGhZAg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "799496228590-5krqiph5mq35gm986lo8nt9maor6jqdq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "SelexJSC.SelexMotor",
+                "app_store_id": "Selex Motor"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799496228590:android:6610d3ffe783df6ac0edff",
+        "android_client_info": {
+          "package_name": "com.example.main_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAETo8_62X8bSHsXEHUVCxIjCTlxGGhZAg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "799496228590-5krqiph5mq35gm986lo8nt9maor6jqdq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "SelexJSC.SelexMotor",
+                "app_store_id": "Selex Motor"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

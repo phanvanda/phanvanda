@@ -1,0 +1,5 @@
+name: shopee_monorepo
+
+packages:
+  - apps/*
+  - packages/*
